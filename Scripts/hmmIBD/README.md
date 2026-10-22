@@ -27,7 +27,7 @@ repository for the authoritative license text.
 ## How it is used here
 
 hmmIBD was run on VCFs converted to the hmmIBD input format (see
-`../scripts/vcf2hmm.py`), producing the pairwise `fract_sites_IBD` values used for the
+`vcf2hmm.py`), producing the pairwise `fract_sites_IBD` values used for the
 relatedness and clustering analyses. See the main project README for the full
 pipeline and for how to regenerate the IBD results.
 
